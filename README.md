@@ -30,10 +30,10 @@ Bu proje statik bir web sayfasıdır. Çalıştırmak için herhangi bir paket y
 2. Proje klasörünü açın.
 3. `index.html` dosyasını herhangi bir modern web tarayıcısında (Google Chrome, Mozilla Firefox, Safari, Edge vb.) çift tıklayarak açın.
 
-## Dosya ve Klasör Yapısı
+Dosya ve Klasör Yapısı
 
 ```text
-capraz-butik/
+/ (butik dizini)
 │
 ├── assets/
 │   └── images/          # Projede kullanılan tüm görseller (1.jpeg, 2.jpeg vb.)
